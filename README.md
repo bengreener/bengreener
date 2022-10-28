@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @bengreener
 - 👀 I’m interested in getting value from informations systems (System Design, Software Development, Architecture)
-- 🌱 I’m currently learning Java, Javascript, Spring, git
+- 🌱 I’m currently learning Java, Javascript, Spring, React, and git 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
